@@ -1,4 +1,4 @@
-# GA_Project_1 :: Analysis of aggregate SAT & ACT Data from 2017 & 2018
+# Analysis of aggregate SAT & ACT Data from 2017 & 2018
 
 Problem Statement:
 
